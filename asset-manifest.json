@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/okc-booking-app/static/css/main.458effe4.css",
+    "main.js": "/okc-booking-app/static/js/main.64a7f996.js",
+    "static/js/453.bd084bb7.chunk.js": "/okc-booking-app/static/js/453.bd084bb7.chunk.js",
+    "index.html": "/okc-booking-app/index.html",
+    "main.458effe4.css.map": "/okc-booking-app/static/css/main.458effe4.css.map",
+    "main.64a7f996.js.map": "/okc-booking-app/static/js/main.64a7f996.js.map",
+    "453.bd084bb7.chunk.js.map": "/okc-booking-app/static/js/453.bd084bb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.458effe4.css",
+    "static/js/main.64a7f996.js"
+  ]
+}
